@@ -1,6 +1,6 @@
 # Hugo Curious
 
-The official theme for [AICurious Blog](https://aicurious.io) based on [Hugo Clarity](https://github.com/vietanhdev/hugo-curious). See a live demo at **[hugo-curious.aicurious.io](hugo-curious.aicurious.io)** or **[aicurious.io](https://aicurious.io)**.
+The official theme for [AICurious Blog](https://aicurious.io) based on [Hugo Clarity](https://github.com/vietanhdev/hugo-curious). See a live demo at **[hugo-curious.aicurious.io](https://hugo-curious.aicurious.io)** or **[aicurious.io](https://aicurious.io)**.
 
 ![Screenshot](images/screenshot.png)
 
@@ -112,6 +112,8 @@ These options set global values that some pages or all pages in the site use by 
 | talkyardServerUrl | string | N/A |
 | talkyardScriptUrl | string | N/A |
 | contactFormSubmitUrl | string | N/A |
+| contactFormSubmitUrl | string | N/A |
+| buyMeACoffeeId | string | N/A |
 | mailChimpUrl | string | N/A |
 ### Page Parameters
 
